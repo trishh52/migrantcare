@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+google-generativeai
+langgraph
+langchain-google-genai
+supabase==2.9.1
+requests
+python-telegram-bot
